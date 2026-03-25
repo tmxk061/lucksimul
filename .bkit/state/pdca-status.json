@@ -1,0 +1,297 @@
+{
+  "version": "3.0",
+  "lastUpdated": "2026-03-25T07:56:58.231Z",
+  "activeFeatures": [
+    "today-luck-temp",
+    "fortune",
+    "templates",
+    "api",
+    "form",
+    "result",
+    "today luck"
+  ],
+  "primaryFeature": "today-luck-temp",
+  "features": {
+    "today-luck-temp": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:09:59.529Z",
+        "lastUpdated": "2026-03-25T07:31:41.891Z"
+      },
+      "lastFile": "C:/Users/User/Downloads/today-luck-temp/src/app/page.tsx"
+    },
+    "fortune": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:10:09.825Z",
+        "lastUpdated": "2026-03-25T07:23:10.132Z"
+      },
+      "lastFile": "C:/Users/User/Downloads/today-luck-temp/src/app/api/fortune/route.ts"
+    },
+    "templates": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:12:39.244Z",
+        "lastUpdated": "2026-03-25T07:16:27.884Z"
+      },
+      "lastFile": "C:/Users/User/Downloads/today-luck-temp/src/lib/fortune/templates/index.ts"
+    },
+    "api": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:16:54.073Z",
+        "lastUpdated": "2026-03-25T07:16:54.073Z"
+      },
+      "lastFile": "C:/Users/User/Downloads/today-luck-temp/src/lib/api/ohmanda.ts"
+    },
+    "form": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:26:39.829Z",
+        "lastUpdated": "2026-03-25T07:55:46.605Z"
+      },
+      "lastFile": "C:\\Users\\User\\Downloads\\today luck\\src\\components\\form\\FortuneForm.tsx"
+    },
+    "result": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:26:51.828Z",
+        "lastUpdated": "2026-03-25T07:31:52.966Z"
+      },
+      "lastFile": "C:/Users/User/Downloads/today-luck-temp/src/app/result/page.tsx"
+    },
+    "today luck": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-25T07:56:58.231Z",
+        "lastUpdated": "2026-03-25T07:56:58.231Z"
+      },
+      "lastFile": "C:\\Users\\User\\Downloads\\today luck\\next.config.ts"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-25T06:50:32.477Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-25T07:56:58.231Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-03-25T07:09:59.529Z",
+      "feature": "today-luck-temp",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:10:09.825Z",
+      "feature": "fortune",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:10:40.370Z",
+      "feature": "fortune",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:10:51.778Z",
+      "feature": "fortune",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:11:00.895Z",
+      "feature": "today-luck-temp",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:12:18.741Z",
+      "feature": "today-luck-temp",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:12:39.244Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:12:50.789Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:15:09.040Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:15:36.972Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:16:01.239Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:16:23.611Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:16:27.884Z",
+      "feature": "templates",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:16:49.033Z",
+      "feature": "fortune",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:16:54.073Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:23:10.132Z",
+      "feature": "fortune",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:23:32.688Z",
+      "feature": "today-luck-temp",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:26:39.829Z",
+      "feature": "form",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:26:51.828Z",
+      "feature": "result",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:27:18.559Z",
+      "feature": "result",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:27:25.898Z",
+      "feature": "result",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:31:26.787Z",
+      "feature": "today-luck-temp",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:31:41.891Z",
+      "feature": "today-luck-temp",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:31:52.966Z",
+      "feature": "result",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:55:00.278Z",
+      "feature": "form",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:55:46.605Z",
+      "feature": "form",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-25T07:56:58.231Z",
+      "feature": "today luck",
+      "phase": "do",
+      "action": "updated"
+    }
+  ],
+  "stateMachine": {
+    "defaultWorkflow": "default",
+    "activeWorkflows": {},
+    "totalTransitions": 0
+  },
+  "automation": {
+    "globalLevel": 2,
+    "trustScore": 40,
+    "pendingApprovals": 0,
+    "lastGateResult": null
+  },
+  "team": {
+    "enabled": true,
+    "stateFile": ".bkit/runtime/agent-state.json",
+    "eventsFile": ".bkit/runtime/agent-events.jsonl"
+  }
+}

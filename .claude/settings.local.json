@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Read(//c/Users/User/Downloads/**)",
+      "Bash(cp -r today-luck-temp/src \"today luck/\")",
+      "Bash(cp today-luck-temp/package.json \"today luck/\")",
+      "Bash(cp today-luck-temp/package-lock.json \"today luck/\")",
+      "Bash(cp today-luck-temp/tsconfig.json \"today luck/\")",
+      "Bash(cd:*)",
+      "Bash(npm install:*)",
+      "Bash(curl -s -X POST http://localhost:3000/api/fortune -H \"Content-Type: application/json\" -d '{\"\"\"\"name\"\"\"\":\"\"\"\"홍길동\"\"\"\",\"\"\"\"birthdate\"\"\"\":\"\"\"\"1990-05-15\"\"\"\",\"\"\"\"gender\"\"\"\":\"\"\"\"male\"\"\"\"}')",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(''''별자리:'''', d[''''zodiac''''][''''name''''], d[''''zodiac''''][''''symbol'''']\\); print\\(''''띠:'''', d[''''chineseZodiac''''][''''name'''']+''''띠''''\\); print\\(''''종합운:'''', d[''''overall''''][''''score''''],''''점''''\\); print\\(''''사망확률:'''', d[''''deathRate''''][''''percentage''''],''''%''''\\); print\\(''''코멘트:'''', d[''''deathRate''''][''''comment'''']\\)\")"
+    ]
+  }
+}
